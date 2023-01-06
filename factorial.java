@@ -17,6 +17,7 @@ public class factorial {
         }while(i<=number);
 
         System.out.println("Factorial of "+number+" is:"+factorial);
+        sc.close();
     }
     
 }
